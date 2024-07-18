@@ -1,0 +1,95 @@
+.allura-regular {
+    font-family: "Allura", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.amiri-regular {
+    font-family: "Amiri", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .amiri-bold {
+    font-family: "Amiri", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .amiri-regular-italic {
+    font-family: "Amiri", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .amiri-bold-italic {
+    font-family: "Amiri", serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+
+.montserrat {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.marck-script-regular {
+    font-family: "Marck Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+  .shh {
+    font-size: 140px;
+    transform: rotate(-14deg);
+  }
+
+.sorpresa{
+    margin-left: 60px;
+    z-index: 2; 
+    font-size: 25px;  
+    margin-top: -40px;
+}
+
+.rosa-arriba{
+    /* position: absolute; */
+    right: 0;
+    top: 0;
+    width: 200px;
+    height: 200px;
+    transform: rotate(90deg);
+    /* background-image: url(/assets/rosas.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right -10% top -5%; */
+
+}
+
+.rosa-abajo{
+    /* position: absolute; */
+    left: 0;
+    bottom: 0;
+    width: 200px;
+    height: 200px;
+    transform: rotate(-90deg);
+    /* background-image: url(/assets/rosas.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: left -10% bottom -5%; */
+}
+
+.anios{
+    font-size: 35px;
+    line-height: 20px;
+}
+.numero-anios{
+    font-size: 50px;
+    line-height: 20px;
+}
+
+.h2-nombres{
+    font-size: 40px;
+}

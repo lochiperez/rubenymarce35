@@ -93,3 +93,17 @@
 .h2-nombres{
     font-size: 40px;
 }
+
+.links{
+  color: white;
+  text-transform: none;
+  text-decoration: none;
+}
+
+button{
+  border-radius: 25px;
+  height: 40px;
+  width:200px;
+  background-color: 	#FF7F50;
+  border: none;
+}
